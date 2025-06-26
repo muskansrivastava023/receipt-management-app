@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tgz
+.DS_Store # macOS specific
+npm-shrinkwrap.json
+
+# SQLite database file
+receipts.db
+receipts.db-journal # SQLite journal file
+
+# Other files
+*.log
+.vscode/ # VS Code specific settings
