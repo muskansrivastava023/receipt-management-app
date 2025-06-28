@@ -29,7 +29,7 @@ Note: ImageMagick 7.x changes the convert command to magick. This project specif
     pdf-parse: For validating PDF file structure.
 
 Setup and Running the Project:-
-1. Prerequisites:-
+1. Prerequisites:- 
 A. Ensure you have Node.js, npm, and ImageMagick 6.x (with convert.exe and PATH configured) installed as described in the Dependencies section.
 B. Installation
 C. Clone the repository (if applicable, or create the files as instructed previously).
